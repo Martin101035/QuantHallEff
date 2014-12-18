@@ -1,0 +1,18 @@
+\select@language {german}
+\contentsline {section}{\numberline {1}Einleitung}{1}
+\contentsline {section}{\numberline {2}Theoretische Grundlagen}{1}
+\contentsline {section}{\numberline {3}Durchf\IeC {\"u}hrung}{3}
+\contentsline {subsection}{\numberline {3.1}Unstrukturierte Probe}{4}
+\contentsline {subsection}{\numberline {3.2}Strukturierte Probe}{4}
+\contentsline {subsection}{\numberline {3.3}Erfassung des Vorwiderstand-Spannungsabfall bei verschiedenen Magnetfeldern}{4}
+\contentsline {section}{\numberline {4}Auswertung}{5}
+\contentsline {subsection}{\numberline {4.1} Fehlerbetrachtung}{5}
+\contentsline {subsubsection}{\numberline {4.1.1}Systematische Fehler}{5}
+\contentsline {subsubsection}{\numberline {4.1.2}Statistische Fehler}{5}
+\contentsline {subsection}{\numberline {4.2} Ladungstr\IeC {\"a}gerdichte aus Steigung der Hallspannung}{6}
+\contentsline {subsection}{\numberline {4.3} Bestimmung der Plateau-werte und zugeh\IeC {\"o}riger F\IeC {\"u}llfaktoren}{6}
+\contentsline {subsection}{\numberline {4.4}Bestimmung der Ladungstr\IeC {\"a}gerdichten aus den SdH-Oszillationen}{7}
+\contentsline {subsection}{\numberline {4.5}Bestimmung der Beweglichkeit der Elektronen aus der L\IeC {\"a}ngsspannung bei B=0}{8}
+\contentsline {subsection}{\numberline {4.6}Vergleich der ermittelten Ladungstr\IeC {\"a}gerdichten und Beweglichkeiten}{8}
+\contentsline {subsection}{\numberline {4.7}von-Klitzing Konstante}{9}
+\contentsline {subsection}{\numberline {4.8}Genauere Betrachtung der Messung der strukturierten Probe}{9}
